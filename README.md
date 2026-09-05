@@ -140,7 +140,7 @@ os (standard library)
 
 ## Scientific Context
 
-Pat1 (Phospholipase A2 Translocator 1) is a patatin-like phospholipase from Rickettsia parkeri, an obligate intracellular bacterial pathogen. Pat1 is thought to aid bacterial escape from the host vacuole during infection by stimulating phospholipase A2 activity at the vacuolar membrane.
+Pat1 (Phospholipase A2) is a patatin-like phospholipase from Rickettsia parkeri, an obligate intracellular bacterial pathogen. Pat1 is thought to aid bacterial escape from the host vacuole during infection by stimulating phospholipase A2 activity at the vacuolar membrane.
 
 This pipeline was developed to systematically compare PLA2 stimulation activity across:
 
